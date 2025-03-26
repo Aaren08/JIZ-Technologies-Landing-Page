@@ -5,6 +5,6 @@ Provides a landing page for JIZ Technologies
 Includes a clean and modern design
 Utilizes HTML and CSS to create the website structure and styling
 
-# Technology Stack
+## Technology Stack
 HTML
 CSS
